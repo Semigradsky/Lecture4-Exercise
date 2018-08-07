@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorAsyncTaskActivity">#7cced0</color>
+    <color name="colorLoaderActivity">#009487</color>
+    <color name="colorThreadsActivity">#a7559a</color>
 </resources>
